@@ -14,7 +14,7 @@ App was created with Create React App.
  5. Right after that paste the file location on the same line and press enter.
 
  6. Then Type following and press enter:
- ## ` npm install `
+ ### ` npm install `
 
 8. The array of word's needs to be install as well.
     Type the following in to the cmd and press enter.
