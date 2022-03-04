@@ -1,8 +1,7 @@
-import "./App.css";
+// import logo from './logo.svg';
+import './App.css';
 import HangmanApp from "./hangman_app";
 import { ShowRules } from "./show_rules";
-
-// Displays the Rule games play components 
 
 function App() {
   return (
