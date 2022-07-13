@@ -52,5 +52,5 @@ Guess the word/phrase before your man gets hung!
 
 ## Heroku Deployed app:
 
-[https://hangman-react-app.herokuapp.com/](Hangman React App)
+https://hangman-react-app.herokuapp.com/
 
