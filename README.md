@@ -49,3 +49,8 @@ generated word before running out of guesses.
 
 Objective:
 Guess the word/phrase before your man gets hung!
+
+## Heroku Deployed app:
+
+[https://hangman-react-app.herokuapp.com/](Hangman React App)
+
